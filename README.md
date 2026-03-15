@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋 I'm Kumaraswamy KU
 
-<!--
-**KumaraswamyKU/KumaraswamyKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Python | SQL | Power BI  
+🎓 Computer Science Student (2027 Graduate)
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights using data analysis and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Data Analytics Skills
+
+**Data Analysis**
+Excel • Python • Pandas • NumPy
+
+**Data Visualization**
+Power BI • Matplotlib • Seaborn
+
+**Databases**
+SQL • MySQL
+
+**Tools**
+Git • VS Code • Jupyter Notebook
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=react-dark)
+
+---
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kumaraswamy_K_U?theme=dark&ext=heatmap)
+
+---
+
+## 📂 Data Analytics Projects
+
+### 📊 Sales Data Analysis
+Analyzed sales dataset using Python and Pandas to identify trends and top-performing products.
+
+Tools: Python • Pandas • Matplotlib
+
+## 💼 Internship
+
+**Data Analyst Intern – iStudio**
+
+• Worked on data cleaning and analysis  
+• Built dashboards using Power BI  
+• Performed SQL queries to generate business insights  
+
+---
+
+## 💻 Coding Profiles
+
+LeetCode  
+https://leetcode.com/Kumaraswamy_K_U
+
+---
+
+⭐ Interests
+
+Data Analytics • Business Intelligence • Machine Learning • Data Visualization
