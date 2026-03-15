@@ -23,12 +23,6 @@ Git • VS Code • Jupyter Notebook
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=radical)
-
----
-
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=react-dark)
