@@ -1,64 +1,206 @@
-# Hi 👋 I'm Kumaraswamy KU
+# Hi 👋 I'm Kumaraswamy K U
 
-📊 Data Analyst | Python | SQL | Power BI  
-🎓 Computer Science Student (2027 Graduate)
+## 🚀 Python Full Stack Engineer | AI/ML Engineer | Data Engineer
 
-I enjoy transforming raw data into meaningful insights using data analysis and visualization tools.
+🎓 Final Year Computer Science Engineering Student (2027 Graduate)
 
----
-
-## 🛠 Data Analytics Skills
-
-**Data Analysis**
-Excel • Python • Pandas • NumPy
-
-**Data Visualization**
-Power BI • Matplotlib • Seaborn
-
-**Databases**
-SQL • MySQL
-
-**Tools**
-Git • VS Code • Jupyter Notebook
+💡 Passionate about building scalable backend applications, AI-powered solutions, ETL pipelines, REST APIs, and Data Engineering workflows.
 
 ---
 
-## 📈 Contribution Graph
+# 👨‍💻 About Me
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=react-dark)
+- 🎓 Final Year B.E. Computer Science Engineering Student
+- 🐍 Python Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Data Engineering & Analytics Enthusiast
+- ⚙️ Backend Developer using Flask & REST APIs
+- 🛢️ Database Developer (PostgreSQL, MySQL & MongoDB)
+- 📦 Docker & GitHub Actions Learner
+- ☁️ Currently learning Cloud & Modern Data Engineering
+- 🧩 Solving Data Structures & Algorithms on LeetCode
+- 🚀 Always building real-world software projects
 
 ---
 
-## 💻 LeetCode Stats
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+- Python
+- SQL
+- C
+- C++
+
+### ⚙️ Backend Development
+
+- Flask
+- REST APIs
+
+### 🗄️ Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### 📊 Data Engineering
+
+- Apache Airflow
+- ETL Pipelines
+- Docker
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Scikit-Learn
+- NLP
+- TF-IDF
+- LangChain
+- Ollama
+- RAG
+- Vector Databases
+- PySpark
+
+### 📈 Data Visualization
+
+- Power BI
+- Plotly
+- Matplotlib
+- MS Excel
+
+### 🧰 Tools
+
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- DBeaver
+- VS Code
+- Jupyter Notebook
+
+---
+
+# 💼 Experience
+
+### Artificial Intelligence Intern
+**1Stop.ai**
+
+- Built Machine Learning models using Python & Scikit-Learn
+- Worked on data preprocessing & feature engineering
+- Performed model evaluation
+- Worked on AI-based real-world datasets
+
+---
+
+### Data Analytics Intern
+**iStudio Technologies**
+
+- Data Analysis using Python
+- SQL Querying
+- Power BI Dashboard Development
+- Data Cleaning & Visualization
+- Automated Reporting
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 AI Resume Screening System
+
+- Python
+- Flask
+- NLP
+- TF-IDF
+- Machine Learning
+
+An AI-powered Resume Screening System capable of ranking resumes based on job descriptions.
+
+---
+
+## 🔹 Offline RAG Assistant
+
+- Ollama
+- LangChain
+- ChromaDB
+- Docker
+
+Offline AI Assistant using Retrieval Augmented Generation.
+
+---
+
+## 🔹 Apache Airflow ETL Pipeline
+
+- Apache Airflow
+- Docker
+- PostgreSQL
+- Python
+
+Production-style ETL Pipeline built using Astronomer CLI and Docker.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumaraswamyKU&theme=tokyonight)
+
+---
+
+# 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumaraswamyKU&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=tokyo-night)
+
+---
+
+# 💻 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kumaraswamy_K_U?theme=dark&ext=heatmap)
 
 ---
 
-## 📂 Data Analytics Projects
+# 🏆 Certifications
 
-### 📊 Sales Data Analysis
-Analyzed sales dataset using Python and Pandas to identify trends and top-performing products.
-
-Tools: Python • Pandas • Matplotlib
-
-## 💼 Internship
-
-**Data Analyst Intern – iStudio**
-
-• Worked on data cleaning and analysis  
-• Built dashboards using Power BI  
-• Performed SQL queries to generate business insights  
+- Data Science & Machine Learning — Udemy
+- SQL Analytics & BI on Databricks
 
 ---
 
-## 💻 Coding Profiles
+# 🌐 Connect With Me
 
-LeetCode  
-https://leetcode.com/Kumaraswamy_K_U
+📧 Email: kumarswamyku2005@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/kumaraswamy-k-u-b75a6a291
+
+💻 GitHub:
+https://github.com/KumaraswamyKU
+
+🧩 LeetCode:
+https://leetcode.com/u/Kumaraswamy_K_U/
 
 ---
 
-⭐ Interests
+# 💡 Interests
 
-Data Analytics • Business Intelligence • Machine Learning • Data Visualization
+- Python Development
+- Full Stack Development
+- Artificial Intelligence
+- Data Engineering
+- Machine Learning
+- Backend Development
+- Cloud Computing
+- Open Source
+
+---
+
+⭐ Thanks for visiting my profile!
