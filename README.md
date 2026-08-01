@@ -1,55 +1,50 @@
+<div align="center">
+
 # Hi 👋 I'm Kumaraswamy K U
 
-## 🚀 Python Full Stack Engineer | AI/ML Engineer | Data Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Engineer;AI%2FML+Engineer;Data+Engineer;Backend+Developer;Building+Scalable+Software+Solutions" />
+
+### 🚀 Python Full Stack Engineer | AI/ML Engineer | Data Engineer
 
 🎓 Final Year Computer Science Engineering Student (2027 Graduate)
 
-💡 Passionate about building scalable backend applications, AI-powered solutions, ETL pipelines, REST APIs, and Data Engineering workflows.
+💡 Passionate about Backend Development, Artificial Intelligence, Data Engineering and Cloud Technologies.
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.E. Computer Science Engineering Student
+- 🎓 Final Year Computer Science Engineering Student
 - 🐍 Python Full Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Engineering & Analytics Enthusiast
+- 📊 Data Engineering Enthusiast
 - ⚙️ Backend Developer using Flask & REST APIs
-- 🛢️ Database Developer (PostgreSQL, MySQL & MongoDB)
+- 🛢️ PostgreSQL • MySQL • MongoDB
 - 📦 Docker & GitHub Actions Learner
-- ☁️ Currently learning Cloud & Modern Data Engineering
-- 🧩 Solving Data Structures & Algorithms on LeetCode
-- 🚀 Always building real-world software projects
+- ☁️ Learning Cloud Computing
+- 🧩 Solving DSA on LeetCode
+- 🚀 Love building real-world software projects
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
+<p align="center">
 
-- Python
-- SQL
-- C
-- C++
+<img src="https://skillicons.dev/icons?i=python,flask,django,postgres,mysql,mongodb,docker,git,github,vscode,linux,cpp,c" />
 
-### ⚙️ Backend Development
-
-- Flask
-- REST APIs
-
-### 🗄️ Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
+</p>
 
 ### 📊 Data Engineering
 
 - Apache Airflow
 - ETL Pipelines
 - Docker
+- PostgreSQL
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 AI & Machine Learning
 
 - Scikit-Learn
 - NLP
@@ -65,40 +60,35 @@
 - Power BI
 - Plotly
 - Matplotlib
+- Pandas
+- NumPy
 - MS Excel
-
-### 🧰 Tools
-
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- DBeaver
-- VS Code
-- Jupyter Notebook
 
 ---
 
 # 💼 Experience
 
-### Artificial Intelligence Intern
-**1Stop.ai**
+## 🤖 Artificial Intelligence Intern
 
-- Built Machine Learning models using Python & Scikit-Learn
-- Worked on data preprocessing & feature engineering
-- Performed model evaluation
-- Worked on AI-based real-world datasets
+### 1Stop.ai
+
+- Built Machine Learning models
+- Worked with Python & Scikit-Learn
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation
 
 ---
 
-### Data Analytics Intern
-**iStudio Technologies**
+## 📊 Data Analytics Intern
 
-- Data Analysis using Python
+### iStudio Technologies
+
+- Python Data Analysis
 - SQL Querying
-- Power BI Dashboard Development
-- Data Cleaning & Visualization
-- Automated Reporting
+- Power BI Dashboards
+- Data Cleaning
+- Reporting Automation
 
 ---
 
@@ -106,69 +96,101 @@
 
 ## 🔹 AI Resume Screening System
 
-- Python
-- Flask
-- NLP
-- TF-IDF
-- Machine Learning
+✅ Python
 
-An AI-powered Resume Screening System capable of ranking resumes based on job descriptions.
+✅ Flask
 
----
+✅ NLP
 
-## 🔹 Offline RAG Assistant
+✅ TF-IDF
 
-- Ollama
-- LangChain
-- ChromaDB
-- Docker
-
-Offline AI Assistant using Retrieval Augmented Generation.
+✅ Machine Learning
 
 ---
 
 ## 🔹 Apache Airflow ETL Pipeline
 
-- Apache Airflow
-- Docker
-- PostgreSQL
-- Python
+✅ Python
 
-Production-style ETL Pipeline built using Astronomer CLI and Docker.
+✅ Apache Airflow
+
+✅ Docker
+
+✅ PostgreSQL
 
 ---
 
-# 📈 GitHub Stats
+## 🔹 Offline RAG Assistant
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=tokyonight)
+✅ LangChain
+
+✅ Ollama
+
+✅ Docker
+
+✅ ChromaDB
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaraswamyKU&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumaraswamyKU&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KumaraswamyKU&theme=tokyonight"/>
 
-# 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumaraswamyKU&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=tokyo-night)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumaraswamyKU&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 💻 LeetCode Stats
+# 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kumaraswamy_K_U?theme=dark&ext=heatmap)
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Kumaraswamy_K_U?theme=dark&ext=heatmap"/>
+
+</p>
 
 ---
 
-# 🏆 Certifications
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KumaraswamyKU&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=KumaraswamyKU&color=blue)
+
+---
+
+# 📜 Certifications
 
 - Data Science & Machine Learning — Udemy
 - SQL Analytics & BI on Databricks
@@ -177,16 +199,21 @@ Production-style ETL Pipeline built using Astronomer CLI and Docker.
 
 # 🌐 Connect With Me
 
-📧 Email: kumarswamyku2005@gmail.com
+<p align="center">
 
-💼 LinkedIn:
-https://linkedin.com/in/kumaraswamy-k-u-b75a6a291
+<a href="https://github.com/KumaraswamyKU">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-💻 GitHub:
-https://github.com/KumaraswamyKU
+<a href="https://linkedin.com/in/kumaraswamy-k-u-b75a6a291">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🧩 LeetCode:
-https://leetcode.com/u/Kumaraswamy_K_U/
+<a href="https://leetcode.com/u/Kumaraswamy_K_U/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
 
 ---
 
@@ -196,11 +223,17 @@ https://leetcode.com/u/Kumaraswamy_K_U/
 - Full Stack Development
 - Artificial Intelligence
 - Data Engineering
-- Machine Learning
 - Backend Development
 - Cloud Computing
+- Machine Learning
 - Open Source
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+### If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
