@@ -8,7 +8,7 @@
 
 🎓 Final Year Computer Science Engineering Student (2027 Graduate)
 
-💡 Passionate about Backend Development, Artificial Intelligence, Data Engineering and Cloud Technologies.
+💡 Passionate about Backend Development, Artificial Intelligence, Data Engineering and Modern Software Development.
 
 </div>
 
@@ -23,7 +23,6 @@
 - ⚙️ Backend Developer using Flask & REST APIs
 - 🛢️ PostgreSQL • MySQL • MongoDB
 - 📦 Docker & GitHub Actions Learner
-- ☁️ Learning Cloud Computing
 - 🧩 Solving DSA on LeetCode
 - 🚀 Love building real-world software projects
 
@@ -44,7 +43,7 @@
 - Docker
 - PostgreSQL
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 - Scikit-Learn
 - NLP
@@ -132,18 +131,6 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KumaraswamyKU&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaraswamyKU&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -174,29 +161,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KumaraswamyKU&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=KumaraswamyKU&color=blue)
-
----
-
-# 📜 Certifications
-
-- Data Science & Machine Learning — Udemy
-- SQL Analytics & BI on Databricks
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -224,9 +188,7 @@
 - Artificial Intelligence
 - Data Engineering
 - Backend Development
-- Cloud Computing
 - Machine Learning
-- Open Source
 
 ---
 
