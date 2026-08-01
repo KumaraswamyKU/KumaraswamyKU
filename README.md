@@ -2,17 +2,23 @@
   <img src="./banner.png" width="100%">
 </p>
 
-# Hi 👋 I'm Kumaraswamy K U
+<h1 align="center">Hi 👋 I'm Kumaraswamy K U</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Engineer;AI%2FML+Engineer;Data+Engineer;Backend+Developer;Building+Scalable+Software+Solutions" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Engineer;AI%2FML+Engineer;Data+Analyst;Backend+Developer;Building+Scalable+Software+Solutions" />
+</p>
 
-### 🚀 Python Full Stack Engineer | AI/ML Engineer | Data Engineer
+<h3 align="center">
+🚀 Python Full Stack Engineer | AI/ML Engineer | Data Analyst
+</h3>
 
+<p align="center">
 🎓 Final Year Computer Science Engineering Student (2027 Graduate)
+</p>
 
-💡 Passionate about Backend Development, Artificial Intelligence, Data Engineering and Modern Software Development.
-
-</div>
+<p align="center">
+💡 Passionate about Backend Development, Artificial Intelligence, Data Analytics and Modern Software Development.
+</p>
 
 ---
 
@@ -21,11 +27,12 @@
 - 🎓 Final Year Computer Science Engineering Student
 - 🐍 Python Full Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Engineering Enthusiast
+- 📊 Data Analytics Enthusiast
 - ⚙️ Backend Developer using Flask & REST APIs
-- 🛢️ PostgreSQL • MySQL • MongoDB
+- 🗄️ MySQL • MongoDB
 - 📦 Docker & GitHub Actions Learner
-- 🧩 Solving DSA on LeetCode
+- 📈 Skilled in SQL, Power BI & Data Visualization
+- 🧩 Solving DSA Problems on LeetCode
 - 🚀 Love building real-world software projects
 
 ---
@@ -34,18 +41,26 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,postgres,mysql,mongodb,docker,git,github,vscode,linux,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,flask,django,mysql,mongodb,docker,git,github,vscode,linux,cpp,c" />
 
 </p>
 
-### 📊 Data Engineering
+## 📊 Data Analytics
 
+- SQL
+- MySQL
+- Power BI
 - Apache Airflow
 - ETL Pipelines
-- Docker
-- PostgreSQL
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- MS Excel
 
-### 🤖 Artificial Intelligence & Machine Learning
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
 
 - Scikit-Learn
 - NLP
@@ -53,17 +68,7 @@
 - LangChain
 - Ollama
 - RAG
-- Vector Databases
 - PySpark
-
-### 📈 Data Visualization
-
-- Power BI
-- Plotly
-- Matplotlib
-- Pandas
-- NumPy
-- MS Excel
 
 ---
 
@@ -73,10 +78,10 @@
 
 ### 1Stop.ai
 
-- Built Machine Learning models
-- Worked with Python & Scikit-Learn
-- Feature Engineering
+- Built Machine Learning models using Python
+- Worked with Scikit-Learn
 - Data Preprocessing
+- Feature Engineering
 - Model Evaluation
 
 ---
@@ -85,11 +90,11 @@
 
 ### iStudio Technologies
 
-- Python Data Analysis
+- Data Analysis using Python
 - SQL Querying
-- Power BI Dashboards
-- Data Cleaning
-- Reporting Automation
+- Power BI Dashboard Development
+- Data Cleaning & Visualization
+- Automated Business Reporting
 
 ---
 
@@ -117,7 +122,7 @@
 
 ✅ Docker
 
-✅ PostgreSQL
+✅ MySQL
 
 ---
 
@@ -188,7 +193,7 @@
 - Python Development
 - Full Stack Development
 - Artificial Intelligence
-- Data Engineering
+- Data Analytics
 - Backend Development
 - Machine Learning
 
@@ -198,6 +203,8 @@
 
 ### ⭐ Thanks for visiting my GitHub Profile!
 
-### If you like my work, consider giving a ⭐ to my repositories.
+### 💻 Building scalable software solutions with Python, AI & Data Analytics.
+
+### ⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
